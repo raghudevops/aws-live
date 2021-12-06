@@ -11,3 +11,5 @@ sudo apt-get install python3-boto3
 
 # for running application
 sudo python3 Empapp.py
+For DSN name we can use www.freenom.com and register website free of cost for three months
+next we need to list a nameserver which should come from Route53 
