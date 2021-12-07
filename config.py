@@ -1,6 +1,6 @@
 customhost = "employee-vprime.coaa0fn3na3v.us-east-2.rds.amazonaws.com"
 customuser = "vprime"
 custompass = "vprime1234"
-customdb = "employee-vprime"
+customdb = "employeevprime"
 custombucket = "imgvprimeemployee"
 customregion = "us-east-2a"
